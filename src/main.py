@@ -1,1 +1,0 @@
-print("llamaindex-rag-enterprise")

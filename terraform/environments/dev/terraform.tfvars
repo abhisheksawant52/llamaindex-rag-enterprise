@@ -1,0 +1,8 @@
+region                      = "us-east-1"
+environment                 = "dev"
+project_name                = "llamaindex-rag-enterprise"
+container_image             = "llamaindex-rag-enterprise:latest"
+index_storage_bucket        = "llamaindex-rag-index"
+log_retention_days          = 14
+vector_store_instance_type  = "t3.small.search"
+vector_store_instance_count = 1
